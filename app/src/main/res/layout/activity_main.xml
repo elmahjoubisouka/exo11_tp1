@@ -1,0 +1,51 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/color"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="#c39bd3"
+        android:text="Hello Toast"
+        android:textSize="30dp"
+        android:visibility="visible"
+        android:textColor="#f0f3f4 "/>
+
+    <Button
+        android:id="@+id/btn_toast"
+        android:layout_width="400dp"
+        android:layout_height="100dp"
+        android:backgroundTint="#ccd1d1 "
+        android:insetLeft="20dp"
+        android:insetTop="20dp"
+        android:insetBottom="20dp"
+        android:text="TOAST"
+        android:textColor="#101010"
+        android:textSize="24sp" />
+
+    <TextView
+        android:id="@+id/tv_counter"
+        android:layout_width="410dp"
+        android:layout_height="460dp"
+        android:background="#9b59b6  "
+        android:text="0"
+        android:textAlignment="center"
+        android:textAllCaps="false"
+        android:textColor="#181717"
+        android:textSize="280dp"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/btn_increment"
+        android:layout_width="400dp"
+        android:layout_height="100dp"
+        android:backgroundTint="#ccd1d1"
+        android:insetLeft="20dp"
+        android:insetTop="20dp"
+        android:text="COUNT"
+        android:textColor="#141313"
+        android:textSize="24sp"
+         />
+</LinearLayout>
