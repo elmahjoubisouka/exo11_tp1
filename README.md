@@ -17,3 +17,7 @@ L'application **HelloToast** est une simple application Android qui comprend deu
 1. Clonez le projet depuis GitHub :
    ```bash
    git clone https://github.com/elmahjoubisouka/exo11_tp1.git
+
+## Demonstration
+
+https://github.com/elmahjoubisouka/exo11_tp1/issues/new
